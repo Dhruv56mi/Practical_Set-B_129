@@ -7,6 +7,7 @@
 | Name | Enrollment Number | Practical Set |
 |------|-------------------|---------------|
 | Dhruv Tandel | 202504104610129 | Set B |
+| Chelsi Patel | 202504104610126 | Set A |
 
 ---
 
@@ -53,13 +54,16 @@ It includes Python programs, GitHub operations, and proper documentation for all
 
 ---
 
-## 🖥 Screenshots
+## 📸 Output Screenshots
 
-### Output Example
-![Output](output.png)
+### 🔢 Inverted Number Pattern
+![Inverted](screenshots/inverted_output.png)
 
-### GitHub Repository
-![Repository](repo.png)
+### 🔤 Alphabet Pyramid Pattern
+![Alphabet](screenshots/alphabet_output.png)
+
+### 🔢 Odd Numbers Program
+![Odd](screenshots/odd_output.png)
 
 ---
 
